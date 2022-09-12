@@ -358,9 +358,9 @@ module.exports = {
       DEFAULT: '1',
     },
     fontFamily: {
-      body: '"General Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
-      heading: '"General Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
-      sans: '"General Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
+      body: 'ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont',
+      heading: 'ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont',
+      sans: 'ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont',
       serif: 'ui-serif, Georgia, Cambria, "Times New Roman", Times, serif',
       mono: 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace',
     },
